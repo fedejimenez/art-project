@@ -7,7 +7,7 @@
     "webpack": "5.94.0"
   },
   "devDependencies": {
-    "webpack-dev-server": "^3.10.3"
+    "webpack-dev-server": "^5.2.1"
   },
   "name": "art-project",
   "description": "This app includes:",
